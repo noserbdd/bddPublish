@@ -1,0 +1,8 @@
+﻿{
+    "stepAssemblies": [
+        { "assembly": "Allure.SpecFlowPlugin" }
+    ],
+    "language": {
+        "feature": "de-DE"
+    }
+}
