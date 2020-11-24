@@ -1,0 +1,8 @@
+/.vs
+/allure-report
+/allure-results
+*/bin/
+*/obj/
+/packages/
+/TestResults/
+*DotSettings.user
